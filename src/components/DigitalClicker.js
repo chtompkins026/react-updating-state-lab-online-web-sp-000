@@ -1,1 +1,5 @@
-// Code DigitalClicker Component Here
+export default class ClickityClick extends React.Component {
+  
+
+
+}
